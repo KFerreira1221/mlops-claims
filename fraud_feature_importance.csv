@@ -1,0 +1,1787 @@
+feature,importance
+collision_type_?,0.040972095
+incident_severity_Major Damage,0.02897517
+insured_hobbies_chess,0.028561424
+insured_hobbies_cross-fit,0.027678892
+incident_date_2015-01-09,0.026788982
+auto_model_Forrestor,0.023142291
+incident_date_2015-01-10,0.021735687
+incident_severity_Total Loss,0.020460524
+incident_severity_Minor Damage,0.020272944
+auto_model_Jetta,0.019984571
+incident_date_2015-02-19,0.018994806
+incident_date_2015-01-22,0.015876329
+incident_date_2015-01-27,0.015868977
+auto_make_Saab,0.0153169
+auto_model_Civic,0.0149574075
+incident_date_2015-02-23,0.013565247
+auto_make_Dodge,0.013239882
+auto_model_92x,0.013091201
+insured_hobbies_exercise,0.012819157
+insured_occupation_machine-op-inspct,0.012496556
+auto_model_95,0.012415644
+auto_model_Neon,0.011813859
+auto_model_Pathfinder,0.011641339
+insured_hobbies_polo,0.011479535
+incident_date_2015-01-24,0.010978454
+auto_model_C300,0.010499769
+insured_occupation_prof-specialty,0.009842436
+insured_occupation_craft-repair,0.009815279
+auto_model_Grand Cherokee,0.0097260075
+auto_make_Volkswagen,0.008983602
+insured_hobbies_hiking,0.008972064
+insured_occupation_handlers-cleaners,0.008674637
+insured_occupation_armed-forces,0.008617609
+policy_csl_500/1000,0.008582991
+incident_state_PA,0.008581753
+auto_model_RAM,0.008459486
+insured_hobbies_base-jumping,0.008188987
+insured_occupation_priv-house-serv,0.008188022
+auto_model_Wrangler,0.008172294
+incident_date_2015-02-02,0.008170534
+insured_occupation_adm-clerical,0.00799418
+auto_make_Jeep,0.007989489
+auto_model_MDX,0.0078231925
+auto_make_Audi,0.007467582
+incident_city_Northbrook,0.007403855
+insured_hobbies_kayaking,0.0070511675
+policy_bind_date_1997-05-15,0.006965618
+incident_city_Springfield,0.006894915
+incident_severity_Trivial Damage,0.0064585824
+insured_hobbies_camping,0.0063295956
+insured_hobbies_video-games,0.0062869247
+insured_hobbies_bungie-jumping,0.0060214144
+insured_education_level_Masters,0.0058295787
+collision_type_Rear Collision,0.005799674
+incident_date_2015-02-15,0.0057710907
+insured_hobbies_yachting,0.005651747
+insured_hobbies_skydiving,0.0056321747
+auto_make_Chevrolet,0.0056280927
+insured_occupation_tech-support,0.00561055
+insured_relationship_unmarried,0.0055298763
+auto_model_X6,0.0054863463
+insured_hobbies_dancing,0.0052664755
+incident_date_2015-02-21,0.005110666
+incident_state_VA,0.004887479
+auto_make_Accura,0.0048858863
+insured_hobbies_movies,0.0048459326
+insured_occupation_sales,0.0048226896
+auto_make_Ford,0.0047648763
+auto_make_Nissan,0.0047146096
+insured_hobbies_paintball,0.004701171
+insured_relationship_not-in-family,0.0046148435
+auto_make_Toyota,0.004606199
+incident_date_2015-02-25,0.0045832647
+insured_occupation_transport-moving,0.0045102644
+insured_education_level_College,0.0044207643
+insured_hobbies_sleeping,0.0043342104
+incident_city_Riverwood,0.0043082284
+insured_relationship_wife,0.004253906
+witnesses,0.0042002853
+incident_date_2015-02-18,0.004157801
+insured_relationship_own-child,0.0041369926
+property_damage_YES,0.0040319297
+incident_date_2015-01-06,0.0040223445
+insured_education_level_PhD,0.0039495043
+auto_make_Suburu,0.0039387676
+authorities_contacted_Other,0.0038250186
+insured_hobbies_reading,0.0038119364
+auto_make_Honda,0.0038094085
+umbrella_limit,0.0037817394
+incident_state_NC,0.003762899
+insured_occupation_other-service,0.003753636
+insured_education_level_MD,0.0037227855
+property_damage_NO,0.003604087
+policy_state_OH,0.0035430966
+insured_education_level_Associate,0.003416784
+collision_type_Front Collision,0.0034117964
+insured_education_level_High School,0.0033299294
+insured_zip,0.0033041534
+insured_occupation_exec-managerial,0.003223215
+auto_make_BMW,0.003208274
+police_report_available_YES,0.0031541926
+incident_state_NY,0.0031397578
+policy_number,0.0031299142
+incident_city_Arlington,0.0030683018
+incident_state_WV,0.0030542514
+insured_sex_FEMALE,0.0030333293
+incident_hour_of_the_day,0.0029983805
+auto_year,0.0029865787
+incident_city_Northbend,0.0029234027
+auto_model_A3,0.0028700144
+authorities_contacted_Ambulance,0.0028646912
+policy_annual_premium,0.0027957268
+insured_occupation_protective-serv,0.0027450838
+capital-gains,0.0027134456
+bodily_injuries,0.0027104055
+policy_state_IN,0.0026093924
+insured_occupation_farming-fishing,0.002589636
+insured_relationship_husband,0.0025532052
+incident_city_Hillsdale,0.0025106107
+capital-loss,0.0023763268
+police_report_available_NO,0.0023699573
+months_as_customer,0.0023630187
+insured_relationship_other-relative,0.0023397328
+policy_deductable,0.0023270445
+police_report_available_?,0.0022899234
+insured_hobbies_board-games,0.0022343497
+authorities_contacted_Police,0.002222326
+incident_state_SC,0.0022080054
+number_of_vehicles_involved,0.002151685
+auto_model_Malibu,0.0020462878
+policy_csl_250/500,0.0020297437
+collision_type_Side Collision,0.0019728073
+authorities_contacted_Fire,0.0019513875
+age,0.0019277952
+incident_type_Parked Car,0.0018199873
+policy_state_IL,0.0017941305
+incident_city_Columbus,0.0017270362
+property_damage_?,0.0016603793
+insured_hobbies_basketball,0.0016026471
+insured_education_level_JD,0.0015777643
+incident_date_2015-01-14,0.0015674315
+auto_model_Silverado,0.0014881119
+incident_state_OH,0.0014135387
+incident_type_Single Vehicle Collision,0.0012992104
+policy_csl_100/300,0.0012222826
+incident_type_Multi-vehicle Collision,0.000979844
+insured_sex_MALE,0.00078005856
+auto_model_Escape,0.0
+auto_model_E400,0.0
+auto_model_Corolla,0.0
+auto_model_ML350,0.0
+policy_bind_date_1990-03-18,0.0
+policy_bind_date_1990-03-17,0.0
+policy_bind_date_1990-03-14,0.0
+policy_bind_date_1990-02-23,0.0
+policy_bind_date_1990-02-18,0.0
+policy_bind_date_1990-02-15,0.0
+policy_bind_date_1990-02-14,0.0
+policy_bind_date_1990-02-08,0.0
+policy_bind_date_1990-02-03,0.0
+policy_bind_date_1990-02-01,0.0
+policy_bind_date_1990-01-27,0.0
+policy_bind_date_1990-01-08,0.0
+policy_bind_date_1993-01-28,0.0
+policy_bind_date_1993-01-22,0.0
+policy_bind_date_1992-12-11,0.0
+policy_bind_date_1994-02-03,0.0
+policy_bind_date_1994-01-26,0.0
+policy_bind_date_1994-01-08,0.0
+policy_bind_date_1993-12-10,0.0
+policy_bind_date_1993-12-07,0.0
+policy_bind_date_1993-12-06,0.0
+policy_bind_date_1993-11-30,0.0
+policy_bind_date_1993-11-18,0.0
+policy_bind_date_1993-10-31,0.0
+policy_bind_date_1993-10-29,0.0
+policy_bind_date_1993-10-20,0.0
+policy_bind_date_1993-10-10,0.0
+policy_bind_date_1993-09-30,0.0
+policy_bind_date_1993-09-20,0.0
+policy_bind_date_1993-08-30,0.0
+policy_bind_date_1993-08-09,0.0
+policy_bind_date_1994-08-08,0.0
+policy_bind_date_1994-08-06,0.0
+policy_bind_date_1994-08-03,0.0
+policy_bind_date_1994-06-21,0.0
+policy_bind_date_1994-06-13,0.0
+policy_bind_date_1994-06-08,0.0
+policy_bind_date_1994-06-07,0.0
+policy_bind_date_1994-05-27,0.0
+policy_bind_date_1994-05-17,0.0
+policy_bind_date_1994-04-28,0.0
+policy_bind_date_1994-04-10,0.0
+policy_bind_date_1994-04-07,0.0
+policy_bind_date_1994-04-01,0.0
+policy_bind_date_1994-02-11,0.0
+policy_bind_date_1994-02-10,0.0
+policy_bind_date_1994-02-05,0.0
+policy_bind_date_1994-12-18,0.0
+policy_bind_date_1994-12-11,0.0
+policy_bind_date_1994-11-18,0.0
+policy_bind_date_1994-11-11,0.0
+policy_bind_date_1994-11-07,0.0
+policy_bind_date_1994-10-12,0.0
+policy_bind_date_1994-10-11,0.0
+policy_bind_date_1994-10-03,0.0
+policy_bind_date_1994-09-28,0.0
+policy_bind_date_1994-09-24,0.0
+policy_bind_date_1994-09-17,0.0
+policy_bind_date_1994-09-12,0.0
+policy_bind_date_1994-08-23,0.0
+policy_bind_date_1994-08-21,0.0
+policy_bind_date_1994-08-20,0.0
+policy_bind_date_1994-08-17,0.0
+policy_bind_date_1995-07-17,0.0
+policy_bind_date_1995-07-16,0.0
+policy_bind_date_1995-05-29,0.0
+policy_bind_date_1995-05-20,0.0
+policy_bind_date_1995-05-08,0.0
+policy_bind_date_1995-04-24,0.0
+policy_bind_date_1995-04-23,0.0
+policy_bind_date_1995-03-30,0.0
+policy_bind_date_1995-03-29,0.0
+policy_bind_date_1995-03-28,0.0
+policy_bind_date_1995-03-26,0.0
+policy_bind_date_1995-03-14,0.0
+policy_bind_date_1995-03-08,0.0
+policy_bind_date_1995-02-21,0.0
+policy_bind_date_1995-02-18,0.0
+policy_bind_date_1995-02-17,0.0
+policy_bind_date_1996-01-04,0.0
+policy_bind_date_1995-12-22,0.0
+policy_bind_date_1995-12-17,0.0
+policy_bind_date_1995-12-07,0.0
+policy_bind_date_1995-12-06,0.0
+policy_bind_date_1995-12-05,0.0
+policy_bind_date_1995-12-04,0.0
+policy_bind_date_1995-11-13,0.0
+policy_bind_date_1995-10-12,0.0
+policy_bind_date_1995-10-09,0.0
+policy_bind_date_1995-10-08,0.0
+policy_bind_date_1995-09-19,0.0
+policy_bind_date_1995-09-06,0.0
+policy_bind_date_1995-08-28,0.0
+policy_bind_date_1995-08-19,0.0
+policy_bind_date_1995-07-25,0.0
+policy_bind_date_1996-07-29,0.0
+policy_bind_date_1996-07-21,0.0
+policy_bind_date_1996-07-11,0.0
+policy_bind_date_1996-07-08,0.0
+policy_bind_date_1996-07-07,0.0
+policy_bind_date_1996-06-27,0.0
+policy_bind_date_1996-06-19,0.0
+policy_bind_date_1996-06-04,0.0
+policy_bind_date_1996-05-11,0.0
+policy_bind_date_1996-03-11,0.0
+policy_bind_date_1996-02-14,0.0
+policy_bind_date_1996-02-08,0.0
+policy_bind_date_1996-02-02,0.0
+policy_bind_date_1996-01-20,0.0
+policy_bind_date_1996-01-19,0.0
+policy_bind_date_1996-01-16,0.0
+policy_bind_date_1997-02-03,0.0
+policy_bind_date_1997-01-18,0.0
+policy_bind_date_1996-12-18,0.0
+policy_bind_date_1996-12-15,0.0
+policy_bind_date_1996-12-06,0.0
+policy_bind_date_1996-11-30,0.0
+policy_bind_date_1996-11-11,0.0
+policy_bind_date_1996-11-03,0.0
+policy_bind_date_1996-10-26,0.0
+policy_bind_date_1996-10-23,0.0
+policy_bind_date_1996-10-18,0.0
+policy_bind_date_1996-09-21,0.0
+policy_bind_date_1996-09-02,0.0
+policy_bind_date_1996-08-23,0.0
+policy_bind_date_1996-08-20,0.0
+policy_bind_date_1996-08-05,0.0
+policy_bind_date_1997-08-30,0.0
+policy_bind_date_1997-08-05,0.0
+policy_bind_date_1997-08-04,0.0
+policy_bind_date_1997-07-14,0.0
+policy_bind_date_1997-07-07,0.0
+policy_bind_date_1997-06-21,0.0
+policy_bind_date_1997-06-01,0.0
+policy_bind_date_1997-05-01,0.0
+policy_bind_date_1997-04-21,0.0
+policy_bind_date_1997-03-21,0.0
+policy_bind_date_1997-03-03,0.0
+policy_bind_date_1997-03-01,0.0
+policy_bind_date_1997-02-18,0.0
+policy_bind_date_1997-02-10,0.0
+policy_bind_date_1997-02-05,0.0
+policy_bind_date_1998-01-19,0.0
+policy_bind_date_1998-01-14,0.0
+policy_bind_date_1997-12-19,0.0
+policy_bind_date_1997-11-23,0.0
+policy_bind_date_1997-11-20,0.0
+policy_bind_date_1997-11-15,0.0
+policy_bind_date_1997-11-07,0.0
+policy_bind_date_1997-10-31,0.0
+policy_bind_date_1997-10-30,0.0
+policy_bind_date_1997-10-28,0.0
+policy_bind_date_1997-10-24,0.0
+policy_bind_date_1997-10-12,0.0
+policy_bind_date_1997-10-02,0.0
+policy_bind_date_1997-09-29,0.0
+policy_bind_date_1997-09-16,0.0
+policy_bind_date_1997-09-11,0.0
+policy_bind_date_1998-10-12,0.0
+policy_bind_date_1998-09-10,0.0
+policy_bind_date_1998-08-28,0.0
+policy_bind_date_1998-07-16,0.0
+policy_bind_date_1998-06-24,0.0
+policy_bind_date_1998-06-18,0.0
+policy_bind_date_1998-05-05,0.0
+policy_bind_date_1998-04-07,0.0
+policy_bind_date_1998-03-21,0.0
+policy_bind_date_1998-03-16,0.0
+policy_bind_date_1998-03-08,0.0
+policy_bind_date_1998-02-12,0.0
+policy_bind_date_1998-02-10,0.0
+policy_bind_date_1998-02-01,0.0
+policy_bind_date_1998-01-29,0.0
+policy_bind_date_1998-01-28,0.0
+policy_bind_date_1999-05-22,0.0
+policy_bind_date_1999-05-01,0.0
+policy_bind_date_1999-04-09,0.0
+policy_bind_date_1999-04-07,0.0
+policy_bind_date_1999-03-30,0.0
+policy_bind_date_1999-03-09,0.0
+policy_bind_date_1999-02-21,0.0
+policy_bind_date_1999-01-14,0.0
+policy_bind_date_1999-01-09,0.0
+policy_bind_date_1998-12-28,0.0
+policy_bind_date_1998-12-16,0.0
+policy_bind_date_1998-12-12,0.0
+policy_bind_date_1998-12-11,0.0
+policy_bind_date_1998-12-07,0.0
+policy_bind_date_1998-11-11,0.0
+policy_bind_date_1998-10-28,0.0
+policy_bind_date_1999-12-07,0.0
+policy_bind_date_1999-10-28,0.0
+policy_bind_date_1999-10-05,0.0
+policy_bind_date_1999-09-29,0.0
+policy_bind_date_1999-09-20,0.0
+policy_bind_date_1999-09-18,0.0
+policy_bind_date_1999-09-07,0.0
+policy_bind_date_1999-08-29,0.0
+policy_bind_date_1999-08-15,0.0
+policy_bind_date_1999-08-12,0.0
+policy_bind_date_1999-08-11,0.0
+policy_bind_date_1999-08-06,0.0
+policy_bind_date_1999-07-31,0.0
+policy_bind_date_1999-07-24,0.0
+policy_bind_date_1999-07-22,0.0
+policy_bind_date_1999-05-29,0.0
+policy_bind_date_2000-08-30,0.0
+policy_bind_date_2000-08-26,0.0
+policy_bind_date_2000-08-15,0.0
+policy_bind_date_2000-07-15,0.0
+policy_bind_date_2000-07-14,0.0
+policy_bind_date_2000-06-30,0.0
+policy_bind_date_2000-06-26,0.0
+policy_bind_date_2000-06-18,0.0
+policy_bind_date_2000-06-04,0.0
+policy_bind_date_2000-05-21,0.0
+policy_bind_date_2000-05-04,0.0
+policy_bind_date_2000-03-22,0.0
+policy_bind_date_2000-03-04,0.0
+policy_bind_date_2000-02-18,0.0
+policy_bind_date_2000-02-09,0.0
+policy_bind_date_2000-01-27,0.0
+policy_bind_date_2001-04-21,0.0
+policy_bind_date_2001-04-09,0.0
+policy_bind_date_2001-03-28,0.0
+policy_bind_date_2001-02-20,0.0
+policy_bind_date_2001-02-16,0.0
+policy_bind_date_2001-02-15,0.0
+policy_bind_date_2001-02-02,0.0
+policy_bind_date_2001-01-02,0.0
+policy_bind_date_2000-12-27,0.0
+policy_bind_date_2000-12-01,0.0
+policy_bind_date_2000-11-16,0.0
+policy_bind_date_2000-11-05,0.0
+policy_bind_date_2000-10-18,0.0
+policy_bind_date_2000-10-03,0.0
+policy_bind_date_2000-09-10,0.0
+policy_bind_date_2000-09-06,0.0
+policy_bind_date_2001-09-29,0.0
+policy_bind_date_2001-09-25,0.0
+policy_bind_date_2001-09-24,0.0
+policy_bind_date_2001-09-14,0.0
+policy_bind_date_2001-09-12,0.0
+policy_bind_date_2001-07-11,0.0
+policy_bind_date_2001-07-09,0.0
+policy_bind_date_2001-07-08,0.0
+policy_bind_date_2001-06-26,0.0
+policy_bind_date_2001-06-10,0.0
+policy_bind_date_2001-06-09,0.0
+policy_bind_date_2001-05-24,0.0
+policy_bind_date_2001-05-16,0.0
+policy_bind_date_2001-05-14,0.0
+policy_bind_date_2001-05-13,0.0
+policy_bind_date_2001-05-08,0.0
+policy_bind_date_2002-04-12,0.0
+policy_bind_date_2002-04-05,0.0
+policy_bind_date_2002-03-01,0.0
+policy_bind_date_2002-02-10,0.0
+policy_bind_date_2002-01-23,0.0
+policy_bind_date_2002-01-04,0.0
+policy_bind_date_2001-12-25,0.0
+policy_bind_date_2001-12-19,0.0
+policy_bind_date_2001-12-09,0.0
+policy_bind_date_2001-12-08,0.0
+policy_bind_date_2001-12-07,0.0
+policy_bind_date_2001-11-29,0.0
+policy_bind_date_2001-11-26,0.0
+policy_bind_date_2001-11-06,0.0
+policy_bind_date_2001-10-27,0.0
+policy_bind_date_2001-10-19,0.0
+policy_bind_date_2002-07-28,0.0
+policy_bind_date_2002-07-22,0.0
+policy_bind_date_2002-07-18,0.0
+policy_bind_date_2002-07-16,0.0
+policy_bind_date_2002-07-09,0.0
+policy_bind_date_2002-06-30,0.0
+policy_bind_date_2002-06-29,0.0
+policy_bind_date_2002-06-25,0.0
+policy_bind_date_2002-06-20,0.0
+policy_bind_date_2002-06-08,0.0
+policy_bind_date_2002-06-06,0.0
+policy_bind_date_2002-05-06,0.0
+policy_bind_date_2002-04-30,0.0
+policy_bind_date_2002-04-25,0.0
+policy_bind_date_2002-04-19,0.0
+policy_bind_date_2002-04-13,0.0
+policy_bind_date_2003-01-18,0.0
+policy_bind_date_2003-01-04,0.0
+policy_bind_date_2002-12-30,0.0
+policy_bind_date_2002-12-28,0.0
+policy_bind_date_2002-12-21,0.0
+policy_bind_date_2002-11-28,0.0
+policy_bind_date_2002-11-25,0.0
+policy_bind_date_2002-11-20,0.0
+policy_bind_date_2002-11-13,0.0
+policy_bind_date_2002-10-12,0.0
+policy_bind_date_2002-10-06,0.0
+policy_bind_date_2002-09-22,0.0
+policy_bind_date_2002-09-13,0.0
+policy_bind_date_2002-09-10,0.0
+policy_bind_date_2002-08-15,0.0
+policy_bind_date_2002-08-09,0.0
+policy_bind_date_2003-06-16,0.0
+policy_bind_date_2003-05-29,0.0
+policy_bind_date_2003-05-27,0.0
+policy_bind_date_2003-05-24,0.0
+policy_bind_date_2003-04-21,0.0
+policy_bind_date_2003-04-13,0.0
+policy_bind_date_2003-04-09,0.0
+policy_bind_date_2003-04-08,0.0
+policy_bind_date_2003-04-04,0.0
+policy_bind_date_2003-03-16,0.0
+policy_bind_date_2003-03-09,0.0
+policy_bind_date_2003-03-06,0.0
+policy_bind_date_2003-02-17,0.0
+policy_bind_date_2003-02-13,0.0
+policy_bind_date_2003-02-11,0.0
+policy_bind_date_2003-01-28,0.0
+policy_bind_date_2004-02-29,0.0
+policy_bind_date_2004-02-28,0.0
+policy_bind_date_2004-02-04,0.0
+policy_bind_date_2004-01-10,0.0
+policy_bind_date_2004-01-02,0.0
+policy_bind_date_2003-12-31,0.0
+policy_bind_date_2003-10-11,0.0
+policy_bind_date_2003-10-02,0.0
+policy_bind_date_2003-09-17,0.0
+policy_bind_date_2003-09-13,0.0
+policy_bind_date_2003-08-23,0.0
+policy_bind_date_2003-08-16,0.0
+policy_bind_date_2003-08-09,0.0
+policy_bind_date_2003-07-30,0.0
+policy_bind_date_2003-07-16,0.0
+policy_bind_date_2003-07-05,0.0
+policy_bind_date_2004-09-11,0.0
+policy_bind_date_2004-08-26,0.0
+policy_bind_date_2004-08-13,0.0
+policy_bind_date_2004-08-12,0.0
+policy_bind_date_2004-08-09,0.0
+policy_bind_date_2004-07-22,0.0
+policy_bind_date_2004-07-16,0.0
+policy_bind_date_2004-07-15,0.0
+policy_bind_date_2004-06-15,0.0
+policy_bind_date_2004-06-14,0.0
+policy_bind_date_2004-05-31,0.0
+policy_bind_date_2004-05-24,0.0
+policy_bind_date_2004-04-20,0.0
+policy_bind_date_2004-04-15,0.0
+policy_bind_date_2004-03-10,0.0
+policy_bind_date_2004-03-06,0.0
+policy_bind_date_2005-03-29,0.0
+policy_bind_date_2005-03-07,0.0
+policy_bind_date_2005-03-06,0.0
+policy_bind_date_2005-02-26,0.0
+policy_bind_date_2005-01-14,0.0
+policy_bind_date_2005-01-07,0.0
+policy_bind_date_2004-12-28,0.0
+policy_bind_date_2004-12-19,0.0
+policy_bind_date_2004-11-29,0.0
+policy_bind_date_2004-11-25,0.0
+policy_bind_date_2004-11-17,0.0
+policy_bind_date_2004-11-16,0.0
+policy_bind_date_2004-11-15,0.0
+policy_bind_date_2004-11-04,0.0
+policy_bind_date_2004-10-24,0.0
+policy_bind_date_2004-09-19,0.0
+policy_bind_date_2005-10-18,0.0
+policy_bind_date_2005-10-15,0.0
+policy_bind_date_2005-10-14,0.0
+policy_bind_date_2005-09-29,0.0
+policy_bind_date_2005-09-21,0.0
+policy_bind_date_2005-08-28,0.0
+policy_bind_date_2005-08-23,0.0
+policy_bind_date_2005-08-05,0.0
+policy_bind_date_2005-07-27,0.0
+policy_bind_date_2005-07-17,0.0
+policy_bind_date_2005-06-27,0.0
+policy_bind_date_2005-06-08,0.0
+policy_bind_date_2005-05-08,0.0
+policy_bind_date_2005-04-28,0.0
+policy_bind_date_2005-04-17,0.0
+policy_bind_date_2005-03-31,0.0
+policy_bind_date_2006-06-01,0.0
+policy_bind_date_2006-05-14,0.0
+policy_bind_date_2006-04-19,0.0
+policy_bind_date_2006-03-24,0.0
+policy_bind_date_2006-03-04,0.0
+policy_bind_date_2006-02-21,0.0
+policy_bind_date_2006-02-06,0.0
+policy_bind_date_2006-02-05,0.0
+policy_bind_date_2006-01-01,0.0
+policy_bind_date_2005-12-10,0.0
+policy_bind_date_2005-12-04,0.0
+policy_bind_date_2005-12-03,0.0
+policy_bind_date_2005-11-27,0.0
+policy_bind_date_2005-11-20,0.0
+policy_bind_date_2005-11-14,0.0
+policy_bind_date_2005-11-10,0.0
+policy_bind_date_2006-12-24,0.0
+policy_bind_date_2006-12-21,0.0
+policy_bind_date_2006-12-09,0.0
+policy_bind_date_2006-11-25,0.0
+policy_bind_date_2006-11-21,0.0
+policy_bind_date_2006-10-28,0.0
+policy_bind_date_2006-10-01,0.0
+policy_bind_date_2006-09-07,0.0
+policy_bind_date_2006-08-21,0.0
+policy_bind_date_2006-08-18,0.0
+policy_bind_date_2006-08-10,0.0
+policy_bind_date_2006-08-05,0.0
+policy_bind_date_2006-08-02,0.0
+policy_bind_date_2006-07-12,0.0
+policy_bind_date_2006-06-29,0.0
+policy_bind_date_2006-06-16,0.0
+policy_bind_date_2007-04-30,0.0
+policy_bind_date_2007-04-28,0.0
+policy_bind_date_2007-04-25,0.0
+policy_bind_date_2007-04-24,0.0
+policy_bind_date_2007-04-19,0.0
+policy_bind_date_2007-03-25,0.0
+policy_bind_date_2007-03-24,0.0
+policy_bind_date_2007-03-15,0.0
+policy_bind_date_2007-03-14,0.0
+policy_bind_date_2007-03-11,0.0
+policy_bind_date_2007-03-09,0.0
+policy_bind_date_2007-03-04,0.0
+policy_bind_date_2007-03-03,0.0
+policy_bind_date_2007-02-18,0.0
+policy_bind_date_2007-02-10,0.0
+policy_bind_date_2007-01-27,0.0
+policy_bind_date_2007-12-04,0.0
+policy_bind_date_2007-11-14,0.0
+policy_bind_date_2007-10-25,0.0
+policy_bind_date_2007-10-23,0.0
+policy_bind_date_2007-09-28,0.0
+policy_bind_date_2007-09-19,0.0
+policy_bind_date_2007-08-18,0.0
+policy_bind_date_2007-08-11,0.0
+policy_bind_date_2007-07-24,0.0
+policy_bind_date_2007-07-20,0.0
+policy_bind_date_2007-07-11,0.0
+policy_bind_date_2007-07-05,0.0
+policy_bind_date_2007-07-04,0.0
+policy_bind_date_2007-05-12,0.0
+policy_bind_date_2007-05-06,0.0
+policy_bind_date_2007-05-02,0.0
+policy_bind_date_2008-06-19,0.0
+policy_bind_date_2008-06-17,0.0
+policy_bind_date_2008-05-16,0.0
+policy_bind_date_2008-05-09,0.0
+policy_bind_date_2008-04-23,0.0
+policy_bind_date_2008-04-21,0.0
+policy_bind_date_2008-03-21,0.0
+policy_bind_date_2008-03-18,0.0
+policy_bind_date_2008-03-16,0.0
+policy_bind_date_2008-02-10,0.0
+policy_bind_date_2008-02-03,0.0
+policy_bind_date_2008-01-25,0.0
+policy_bind_date_2008-01-14,0.0
+policy_bind_date_2008-01-07,0.0
+policy_bind_date_2008-01-01,0.0
+policy_bind_date_2007-12-05,0.0
+policy_bind_date_2009-03-08,0.0
+policy_bind_date_2009-03-05,0.0
+policy_bind_date_2009-02-20,0.0
+policy_bind_date_2009-02-17,0.0
+policy_bind_date_2009-02-12,0.0
+policy_bind_date_2009-02-08,0.0
+policy_bind_date_2009-01-21,0.0
+policy_bind_date_2009-01-11,0.0
+policy_bind_date_2008-11-20,0.0
+policy_bind_date_2008-11-07,0.0
+policy_bind_date_2008-11-05,0.0
+policy_bind_date_2008-09-06,0.0
+policy_bind_date_2008-07-28,0.0
+policy_bind_date_2008-07-21,0.0
+policy_bind_date_2008-07-20,0.0
+policy_bind_date_2008-06-27,0.0
+policy_bind_date_2009-09-16,0.0
+policy_bind_date_2009-09-08,0.0
+policy_bind_date_2009-08-23,0.0
+policy_bind_date_2009-08-03,0.0
+policy_bind_date_2009-08-02,0.0
+policy_bind_date_2009-07-29,0.0
+policy_bind_date_2009-07-23,0.0
+policy_bind_date_2009-06-29,0.0
+policy_bind_date_2009-06-26,0.0
+policy_bind_date_2009-06-24,0.0
+policy_bind_date_2009-06-22,0.0
+policy_bind_date_2009-06-17,0.0
+policy_bind_date_2009-06-03,0.0
+policy_bind_date_2009-05-10,0.0
+policy_bind_date_2009-05-09,0.0
+policy_bind_date_2009-04-27,0.0
+policy_bind_date_2010-03-01,0.0
+policy_bind_date_2010-02-28,0.0
+policy_bind_date_2010-02-27,0.0
+policy_bind_date_2010-02-17,0.0
+policy_bind_date_2010-02-11,0.0
+policy_bind_date_2010-01-28,0.0
+policy_bind_date_2010-01-11,0.0
+policy_bind_date_2009-12-11,0.0
+policy_bind_date_2009-11-29,0.0
+policy_bind_date_2009-11-25,0.0
+policy_bind_date_2009-11-17,0.0
+policy_bind_date_2009-11-12,0.0
+policy_bind_date_2009-11-08,0.0
+policy_bind_date_2009-11-03,0.0
+policy_bind_date_2009-10-21,0.0
+policy_bind_date_2009-09-19,0.0
+policy_bind_date_2010-10-01,0.0
+policy_bind_date_2010-09-27,0.0
+policy_bind_date_2010-08-29,0.0
+policy_bind_date_2010-08-08,0.0
+policy_bind_date_2010-08-03,0.0
+policy_bind_date_2010-06-28,0.0
+policy_bind_date_2010-06-02,0.0
+policy_bind_date_2010-05-21,0.0
+policy_bind_date_2010-05-11,0.0
+policy_bind_date_2010-05-01,0.0
+policy_bind_date_2010-04-29,0.0
+policy_bind_date_2010-04-22,0.0
+policy_bind_date_2010-04-21,0.0
+policy_bind_date_2010-03-17,0.0
+policy_bind_date_2010-03-11,0.0
+policy_bind_date_2010-03-06,0.0
+policy_bind_date_2011-06-18,0.0
+policy_bind_date_2011-05-25,0.0
+policy_bind_date_2011-02-25,0.0
+policy_bind_date_2011-02-18,0.0
+policy_bind_date_2011-02-15,0.0
+policy_bind_date_2011-02-04,0.0
+policy_bind_date_2011-02-01,0.0
+policy_bind_date_2011-01-31,0.0
+policy_bind_date_2011-01-26,0.0
+policy_bind_date_2011-01-22,0.0
+policy_bind_date_2011-01-07,0.0
+policy_bind_date_2011-01-06,0.0
+policy_bind_date_2010-11-20,0.0
+policy_bind_date_2010-11-14,0.0
+policy_bind_date_2010-11-04,0.0
+policy_bind_date_2010-11-02,0.0
+policy_bind_date_2012-01-10,0.0
+policy_bind_date_2012-01-05,0.0
+policy_bind_date_2011-12-30,0.0
+policy_bind_date_2011-12-19,0.0
+policy_bind_date_2011-12-12,0.0
+policy_bind_date_2011-12-02,0.0
+policy_bind_date_2011-11-18,0.0
+policy_bind_date_2011-10-22,0.0
+policy_bind_date_2011-09-28,0.0
+policy_bind_date_2011-09-27,0.0
+policy_bind_date_2011-09-17,0.0
+policy_bind_date_2011-08-17,0.0
+policy_bind_date_2011-08-15,0.0
+policy_bind_date_2011-07-25,0.0
+policy_bind_date_2011-07-15,0.0
+policy_bind_date_2011-06-25,0.0
+policy_bind_date_2012-08-05,0.0
+policy_bind_date_2012-07-29,0.0
+policy_bind_date_2012-07-24,0.0
+policy_bind_date_2012-07-17,0.0
+policy_bind_date_2012-07-10,0.0
+policy_bind_date_2012-06-23,0.0
+policy_bind_date_2012-06-20,0.0
+policy_bind_date_2012-06-04,0.0
+policy_bind_date_2012-06-02,0.0
+policy_bind_date_2012-05-10,0.0
+policy_bind_date_2012-04-27,0.0
+policy_bind_date_2012-04-24,0.0
+policy_bind_date_2012-03-14,0.0
+policy_bind_date_2012-03-01,0.0
+policy_bind_date_2012-02-24,0.0
+policy_bind_date_2012-01-12,0.0
+policy_bind_date_2012-12-31,0.0
+policy_bind_date_2012-12-22,0.0
+policy_bind_date_2012-12-03,0.0
+policy_bind_date_2012-12-02,0.0
+policy_bind_date_2012-11-22,0.0
+policy_bind_date_2012-11-07,0.0
+policy_bind_date_2012-11-02,0.0
+policy_bind_date_2012-10-26,0.0
+policy_bind_date_2012-10-25,0.0
+policy_bind_date_2012-10-18,0.0
+policy_bind_date_2012-10-11,0.0
+policy_bind_date_2012-10-09,0.0
+policy_bind_date_2012-10-06,0.0
+policy_bind_date_2012-09-19,0.0
+policy_bind_date_2012-08-26,0.0
+policy_bind_date_2012-08-25,0.0
+policy_bind_date_2013-07-09,0.0
+policy_bind_date_2013-07-07,0.0
+policy_bind_date_2013-07-04,0.0
+policy_bind_date_2013-07-01,0.0
+policy_bind_date_2013-05-01,0.0
+policy_bind_date_2013-04-30,0.0
+policy_bind_date_2013-04-28,0.0
+policy_bind_date_2013-04-24,0.0
+policy_bind_date_2013-04-20,0.0
+policy_bind_date_2013-04-15,0.0
+policy_bind_date_2013-04-10,0.0
+policy_bind_date_2013-04-03,0.0
+policy_bind_date_2013-01-23,0.0
+policy_bind_date_2013-01-16,0.0
+policy_bind_date_2013-01-08,0.0
+policy_bind_date_2013-01-05,0.0
+policy_bind_date_2014-01-18,0.0
+policy_bind_date_2014-01-05,0.0
+policy_bind_date_2013-12-25,0.0
+policy_bind_date_2013-12-21,0.0
+policy_bind_date_2013-12-05,0.0
+policy_bind_date_2013-12-04,0.0
+policy_bind_date_2013-11-11,0.0
+policy_bind_date_2013-11-06,0.0
+policy_bind_date_2013-10-31,0.0
+policy_bind_date_2013-10-27,0.0
+policy_bind_date_2013-09-16,0.0
+policy_bind_date_2013-09-03,0.0
+policy_bind_date_2013-08-26,0.0
+policy_bind_date_2013-08-08,0.0
+policy_bind_date_2013-07-13,0.0
+policy_bind_date_2013-07-12,0.0
+policy_bind_date_2014-07-16,0.0
+policy_bind_date_2014-07-05,0.0
+policy_bind_date_2014-06-24,0.0
+policy_bind_date_2014-06-15,0.0
+policy_bind_date_2014-06-11,0.0
+policy_bind_date_2014-06-10,0.0
+policy_bind_date_2014-06-06,0.0
+policy_bind_date_2014-06-03,0.0
+policy_bind_date_2014-05-28,0.0
+policy_bind_date_2014-05-19,0.0
+policy_bind_date_2014-04-25,0.0
+policy_bind_date_2014-04-07,0.0
+policy_bind_date_2014-03-19,0.0
+policy_bind_date_2014-03-11,0.0
+policy_bind_date_2014-03-04,0.0
+policy_bind_date_2014-01-20,0.0
+policy_bind_date_2014-12-10,0.0
+policy_bind_date_2014-12-05,0.0
+policy_bind_date_2014-11-14,0.0
+policy_bind_date_2014-11-13,0.0
+policy_bind_date_2014-11-01,0.0
+policy_bind_date_2014-10-17,0.0
+policy_bind_date_2014-10-03,0.0
+policy_bind_date_2014-09-17,0.0
+policy_bind_date_2014-09-02,0.0
+policy_bind_date_2014-08-31,0.0
+policy_bind_date_2014-08-30,0.0
+policy_bind_date_2014-08-27,0.0
+policy_bind_date_2014-08-17,0.0
+policy_bind_date_2014-08-05,0.0
+policy_bind_date_2014-07-27,0.0
+policy_bind_date_2014-07-23,0.0
+policy_bind_date_2015-02-22,0.0
+policy_bind_date_1992-06-06,0.0
+policy_bind_date_1992-05-29,0.0
+policy_bind_date_1992-05-19,0.0
+policy_bind_date_1993-08-03,0.0
+policy_bind_date_1993-06-18,0.0
+policy_bind_date_1993-06-16,0.0
+policy_bind_date_1993-06-06,0.0
+policy_bind_date_1993-05-19,0.0
+policy_bind_date_1993-05-18,0.0
+policy_bind_date_1993-04-18,0.0
+policy_bind_date_1993-04-14,0.0
+policy_bind_date_1993-02-23,0.0
+policy_bind_date_1993-02-10,0.0
+policy_bind_date_1993-02-09,0.0
+policy_bind_date_1993-02-03,0.0
+policy_bind_date_1993-01-29,0.0
+policy_bind_date_2015-01-17,0.0
+policy_bind_date_2014-12-28,0.0
+policy_bind_date_2014-12-13,0.0
+policy_bind_date_1992-01-05,0.0
+policy_bind_date_1991-12-28,0.0
+policy_bind_date_1991-12-25,0.0
+policy_bind_date_1992-12-09,0.0
+policy_bind_date_1992-12-07,0.0
+policy_bind_date_1992-11-10,0.0
+policy_bind_date_1992-11-09,0.0
+policy_bind_date_1992-11-07,0.0
+policy_bind_date_1992-10-02,0.0
+policy_bind_date_1992-09-24,0.0
+policy_bind_date_1992-09-01,0.0
+policy_bind_date_1992-08-07,0.0
+policy_bind_date_1992-08-05,0.0
+policy_bind_date_1992-08-02,0.0
+policy_bind_date_1992-07-30,0.0
+policy_bind_date_1992-06-19,0.0
+insured_hobbies_golf,0.0
+policy_bind_date_1991-09-30,0.0
+policy_bind_date_1991-09-26,0.0
+policy_bind_date_1991-08-22,0.0
+policy_bind_date_1992-04-14,0.0
+policy_bind_date_1992-04-10,0.0
+policy_bind_date_1992-04-07,0.0
+policy_bind_date_1992-04-04,0.0
+policy_bind_date_1992-03-22,0.0
+policy_bind_date_1992-03-19,0.0
+policy_bind_date_1992-03-15,0.0
+policy_bind_date_1992-02-29,0.0
+policy_bind_date_1992-02-22,0.0
+policy_bind_date_1992-02-14,0.0
+policy_bind_date_1992-02-04,0.0
+policy_bind_date_1992-01-30,0.0
+policy_bind_date_1992-01-15,0.0
+incident_date_2015-01-05,0.0
+incident_date_2015-01-04,0.0
+incident_date_2015-01-03,0.0
+incident_date_2015-01-02,0.0
+incident_date_2015-01-01,0.0
+incident_date_2015-01-21,0.0
+incident_date_2015-01-20,0.0
+incident_date_2015-01-19,0.0
+incident_date_2015-01-18,0.0
+incident_date_2015-01-17,0.0
+incident_date_2015-01-16,0.0
+incident_date_2015-01-15,0.0
+incident_date_2015-01-13,0.0
+incident_date_2015-01-12,0.0
+incident_date_2015-01-11,0.0
+incident_date_2015-01-08,0.0
+incident_date_2015-01-07,0.0
+incident_date_2015-02-06,0.0
+incident_date_2015-02-05,0.0
+incident_date_2015-02-04,0.0
+incident_date_2015-02-03,0.0
+incident_date_2015-02-01,0.0
+incident_date_2015-01-31,0.0
+incident_date_2015-01-30,0.0
+incident_date_2015-01-29,0.0
+incident_date_2015-01-28,0.0
+incident_date_2015-01-26,0.0
+incident_date_2015-01-25,0.0
+policy_bind_date_1991-04-13,0.0
+policy_bind_date_1991-04-08,0.0
+policy_bind_date_1991-04-02,0.0
+policy_bind_date_1991-12-14,0.0
+policy_bind_date_1991-12-12,0.0
+policy_bind_date_1991-11-28,0.0
+policy_bind_date_1991-11-25,0.0
+policy_bind_date_1991-11-21,0.0
+policy_bind_date_1991-11-20,0.0
+policy_bind_date_1991-11-16,0.0
+policy_bind_date_1991-11-09,0.0
+policy_bind_date_1991-11-04,0.0
+policy_bind_date_1991-11-03,0.0
+policy_bind_date_1991-10-29,0.0
+policy_bind_date_1991-10-13,0.0
+policy_bind_date_1991-10-05,0.0
+incident_date_2015-01-23,0.0
+incident_date_2015-02-22,0.0
+incident_date_2015-02-20,0.0
+incident_date_2015-02-17,0.0
+incident_date_2015-02-16,0.0
+incident_date_2015-02-14,0.0
+incident_date_2015-02-13,0.0
+incident_date_2015-02-12,0.0
+incident_date_2015-02-11,0.0
+incident_date_2015-02-10,0.0
+incident_date_2015-02-09,0.0
+incident_date_2015-02-08,0.0
+incident_date_2015-02-07,0.0
+incident_type_Vehicle Theft,0.0
+incident_date_2015-03-01,0.0
+incident_date_2015-02-28,0.0
+incident_date_2015-02-27,0.0
+incident_date_2015-02-26,0.0
+incident_date_2015-02-24,0.0
+policy_bind_date_1990-09-22,0.0
+policy_bind_date_1990-09-21,0.0
+policy_bind_date_1990-09-20,0.0
+policy_bind_date_1991-08-17,0.0
+policy_bind_date_1991-08-07,0.0
+policy_bind_date_1991-07-20,0.0
+policy_bind_date_1991-07-18,0.0
+policy_bind_date_1991-07-16,0.0
+policy_bind_date_1991-07-11,0.0
+policy_bind_date_1991-07-02,0.0
+policy_bind_date_1991-06-16,0.0
+policy_bind_date_1991-06-03,0.0
+policy_bind_date_1991-05-06,0.0
+policy_bind_date_1991-05-05,0.0
+policy_bind_date_1991-05-03,0.0
+policy_bind_date_1991-04-25,0.0
+incident_location_1133 Apache St,0.0
+incident_location_1128 Maple Lane,0.0
+incident_location_1126 Texas Hwy,0.0
+incident_location_1123 5th Lane,0.0
+incident_location_1110 4th Drive,0.0
+incident_location_1102 Apache Hwy,0.0
+incident_location_1091 1st Drive,0.0
+incident_location_1087 Flute Drive,0.0
+incident_location_1030 Pine Lane,0.0
+incident_location_1028 Sky Lane,0.0
+incident_location_1012 5th Lane,0.0
+incident_location_1331 Elm Ridge,0.0
+incident_location_1331 Britain Hwy,0.0
+incident_location_1328 Texas Lane,0.0
+incident_location_1320 Flute Lane,0.0
+incident_location_1316 Britain Ridge,0.0
+incident_location_1306 Andromedia St,0.0
+incident_location_1298 Maple Hwy,0.0
+incident_location_1275 4th Ridge,0.0
+incident_location_1273 Rock Lane,0.0
+incident_location_1269 Flute Drive,0.0
+incident_location_1267 Francis Hwy,0.0
+incident_location_1248 MLK Ridge,0.0
+incident_location_1240 Tree Lane,0.0
+incident_location_1215 Pine Hwy,0.0
+incident_location_1213 4th Lane,0.0
+incident_location_1186 Rock St,0.0
+incident_location_1472 4th Drive,0.0
+incident_location_1469 Lincoln Drive,0.0
+incident_location_1454 5th Ridge,0.0
+incident_location_1437 3rd Lane,0.0
+incident_location_1422 Flute Ave,0.0
+incident_location_1416 Cherokee Ridge,0.0
+incident_location_1388 Embaracadero Hwy,0.0
+incident_location_1386 Britain St,0.0
+incident_location_1381 Francis Ave,0.0
+incident_location_1376 Pine St,0.0
+incident_location_1371 Texas Lane,0.0
+incident_location_1365 Francis Ave,0.0
+incident_location_1364 Best St,0.0
+incident_location_1358 Maple St,0.0
+incident_location_1353 Washington St,0.0
+incident_location_1346 5th Lane,0.0
+incident_location_1643 Washington Hwy,0.0
+incident_location_1628 Best Drive,0.0
+incident_location_1618 Maple Hwy,0.0
+incident_location_1617 Rock Drive,0.0
+incident_location_1598 3rd Drive,0.0
+incident_location_1589 Best Ave,0.0
+incident_location_1580 Maple Lane,0.0
+incident_location_1578 5th Lane,0.0
+incident_location_1562 Britain St,0.0
+incident_location_1555 Washington Lane,0.0
+incident_location_1540 Apache Lane,0.0
+incident_location_1536 Flute Drive,0.0
+incident_location_1532 Washington St,0.0
+incident_location_1529 Elm Ridge,0.0
+incident_location_1515 Embaracadero St,0.0
+incident_location_1491 Francis Ridge,0.0
+incident_location_1824 5th Lane,0.0
+incident_location_1818 Tree St,0.0
+incident_location_1815 Cherokee Drive,0.0
+incident_location_1810 Elm Hwy,0.0
+incident_location_1809 Sky St,0.0
+incident_location_1806 Weaver Ridge,0.0
+incident_location_1762 Maple Hwy,0.0
+incident_location_1741 Best Ridge,0.0
+incident_location_1738 Solo Lane,0.0
+incident_location_1707 Sky Ave,0.0
+incident_location_1699 Oak Drive,0.0
+incident_location_1687 3rd Lane,0.0
+incident_location_1681 Cherokee Hwy,0.0
+incident_location_1679 2nd Hwy,0.0
+incident_location_1655 Francis Hwy,0.0
+incident_location_1654 Pine St,0.0
+incident_location_2014 Rock Ave,0.0
+incident_location_2003 Maple Hwy,0.0
+incident_location_2003 2nd Hwy,0.0
+incident_location_1992 Britain Drive,0.0
+incident_location_1989 Solo Lane,0.0
+incident_location_1985 5th Ave,0.0
+incident_location_1957 Washington Ave,0.0
+incident_location_1956 Apache St,0.0
+incident_location_1929 Britain Drive,0.0
+incident_location_1923 2nd Hwy,0.0
+incident_location_1916 Elm St,0.0
+incident_location_1914 Francis St,0.0
+incident_location_1879 4th Lane,0.0
+incident_location_1840 Embaracadero Ave,0.0
+incident_location_1833 Solo Ave,0.0
+incident_location_1830 Sky St,0.0
+incident_location_2289 Weaver Ridge,0.0
+incident_location_2280 4th Ave,0.0
+incident_location_2275 Best Lane,0.0
+incident_location_2272 Embaracadero Drive,0.0
+incident_location_2253 Maple Ave,0.0
+incident_location_2230 1st St,0.0
+incident_location_2220 1st Lane,0.0
+incident_location_2217 Tree Lane,0.0
+incident_location_2204 Washington Lane,0.0
+incident_location_2201 4th Lane,0.0
+incident_location_2123 MLK Ridge,0.0
+incident_location_2117 Lincoln Hwy,0.0
+incident_location_2100 MLK St,0.0
+incident_location_2100 Francis Drive,0.0
+incident_location_2086 Francis Drive,0.0
+incident_location_2063 Weaver St,0.0
+incident_location_2494 Andromedia Drive,0.0
+incident_location_2492 Lincoln Lane,0.0
+incident_location_2469 Francis Lane,0.0
+incident_location_2430 MLK Ave,0.0
+incident_location_2381 1st Hwy,0.0
+incident_location_2376 Sky Ridge,0.0
+incident_location_2352 MLK Drive,0.0
+incident_location_2337 Lincoln Hwy,0.0
+incident_location_2333 Maple Lane,0.0
+incident_location_2324 Texas Ridge,0.0
+incident_location_2318 Washington Hwy,0.0
+incident_location_2306 5th Lane,0.0
+incident_location_2299 Britain Drive,0.0
+incident_location_2299 1st St,0.0
+incident_location_2293 Washington Ave,0.0
+incident_location_2290 4th Ave,0.0
+incident_location_2697 Oak Drive,0.0
+incident_location_2668 Cherokee St,0.0
+incident_location_2654 Embaracadero St,0.0
+incident_location_2654 Elm Drive,0.0
+incident_location_2651 MLK Lane,0.0
+incident_location_2646 MLK Drive,0.0
+incident_location_2644 MLK Drive,0.0
+incident_location_2617 Andromedia Drive,0.0
+incident_location_2577 Washington Drive,0.0
+incident_location_2577 Texas Ridge,0.0
+incident_location_2539 Embaracadero Ridge,0.0
+incident_location_2537 5th Ave,0.0
+incident_location_2533 Elm St,0.0
+incident_location_2526 Embaracadero Ave,0.0
+incident_location_2502 Apache Hwy,0.0
+incident_location_2500 Tree St,0.0
+incident_location_2862 Tree Ridge,0.0
+incident_location_2850 Washington St,0.0
+incident_location_2849 Pine Drive,0.0
+incident_location_2832 Andromedia Lane,0.0
+incident_location_2823 Weaver Lane,0.0
+incident_location_2820 Britain St,0.0
+incident_location_2809 Francis Lane,0.0
+incident_location_2808 Elm St,0.0
+incident_location_2804 Best St,0.0
+incident_location_2777 Solo Drive,0.0
+incident_location_2774 Apache Drive,0.0
+incident_location_2756 Britain Hwy,0.0
+incident_location_2753 Cherokee Ave,0.0
+incident_location_2733 Texas Drive,0.0
+incident_location_2725 Britain Ridge,0.0
+incident_location_2711 Britain Ave,0.0
+incident_location_3041 3rd Ave,0.0
+incident_location_3039 Oak Hwy,0.0
+incident_location_3029 5th Ave,0.0
+incident_location_3028 5th St,0.0
+incident_location_2986 MLK Drive,0.0
+incident_location_2980 Sky Ridge,0.0
+incident_location_2950 MLK Ave,0.0
+incident_location_2942 1st Lane,0.0
+incident_location_2914 Oak Drive,0.0
+incident_location_2905 Embaracadero Drive,0.0
+incident_location_2903 Weaver Drive,0.0
+incident_location_2900 Sky Drive,0.0
+incident_location_2889 Francis St,0.0
+incident_location_2886 Tree Ridge,0.0
+incident_location_2878 Britain Hwy,0.0
+incident_location_2865 Maple Lane,0.0
+incident_location_3172 Tree Ridge,0.0
+incident_location_3167 4th Ridge,0.0
+incident_location_3167 2nd St,0.0
+incident_location_3122 Apache Drive,0.0
+incident_location_3110 Lincoln Lane,0.0
+incident_location_3104 Sky Drive,0.0
+incident_location_3102 Apache St,0.0
+incident_location_3098 Oak Lane,0.0
+incident_location_3097 4th Drive,0.0
+incident_location_3092 Texas Drive,0.0
+incident_location_3089 Oak Ridge,0.0
+incident_location_3087 Oak Hwy,0.0
+incident_location_3066 Francis Ave,0.0
+incident_location_3061 Francis Hwy,0.0
+incident_location_3053 Lincoln Drive,0.0
+incident_location_3052 Weaver Ridge,0.0
+incident_location_3376 5th Drive,0.0
+incident_location_3340 3rd Hwy,0.0
+incident_location_3327 Lincoln Drive,0.0
+incident_location_3323 1st Lane,0.0
+incident_location_3320 5th Hwy,0.0
+incident_location_3311 2nd Drive,0.0
+incident_location_3289 Britain Drive,0.0
+incident_location_3282 4th Lane,0.0
+incident_location_3275 Pine St,0.0
+incident_location_3263 Pine Ridge,0.0
+incident_location_3246 Britain Ridge,0.0
+incident_location_3227 Maple Ave,0.0
+incident_location_3220 Rock Drive,0.0
+incident_location_3196 Cherokee St,0.0
+incident_location_3184 Oak Ave,0.0
+incident_location_3177 MLK Ridge,0.0
+incident_location_3590 Best Hwy,0.0
+incident_location_3567 4th Drive,0.0
+incident_location_3553 Texas Ave,0.0
+incident_location_3550 Washington Ave,0.0
+incident_location_3525 3rd Hwy,0.0
+incident_location_3508 Washington St,0.0
+incident_location_3492 Flute Lane,0.0
+incident_location_3488 Flute Lane,0.0
+incident_location_3486 Flute Ave,0.0
+incident_location_3443 Maple Ridge,0.0
+incident_location_3423 Francis Ave,0.0
+incident_location_3419 Apache St,0.0
+incident_location_3418 Texas Lane,0.0
+incident_location_3416 Washington Drive,0.0
+incident_location_3414 Elm Ave,0.0
+incident_location_3397 5th Ave,0.0
+incident_location_3726 MLK Hwy,0.0
+incident_location_3707 Oak Ridge,0.0
+incident_location_3706 Texas Hwy,0.0
+incident_location_3697 Apache Drive,0.0
+incident_location_3693 Pine Ave,0.0
+incident_location_3664 Francis Ridge,0.0
+incident_location_3660 Andromedia Hwy,0.0
+incident_location_3659 Oak Lane,0.0
+incident_location_3658 Rock Drive,0.0
+incident_location_3656 Solo Ave,0.0
+incident_location_3654 Cherokee Ave,0.0
+incident_location_3653 Elm Drive,0.0
+incident_location_3639 Flute Hwy,0.0
+incident_location_3618 Sky Ave,0.0
+incident_location_3618 Maple Lane,0.0
+incident_location_3592 MLK Ridge,0.0
+incident_location_3872 5th Drive,0.0
+incident_location_3847 Elm Hwy,0.0
+incident_location_3846 4th Hwy,0.0
+incident_location_3842 Solo Ridge,0.0
+incident_location_3809 Texas Lane,0.0
+incident_location_3808 5th Ave,0.0
+incident_location_3805 Lincoln Hwy,0.0
+incident_location_3797 Solo Lane,0.0
+incident_location_3796 Cherokee Drive,0.0
+incident_location_3790 Andromedia Hwy,0.0
+incident_location_3777 Maple Ave,0.0
+incident_location_3771 4th St,0.0
+incident_location_3770 Flute Drive,0.0
+incident_location_3753 Francis Lane,0.0
+incident_location_3751 Tree Hwy,0.0
+incident_location_3743 Andromedia Ridge,0.0
+incident_location_4020 Best Drive,0.0
+incident_location_3998 Flute St,0.0
+incident_location_3998 4th Hwy,0.0
+incident_location_3982 Weaver Lane,0.0
+incident_location_3982 Washington Hwy,0.0
+incident_location_3966 Oak Hwy,0.0
+incident_location_3966 Francis Ridge,0.0
+incident_location_3952 Andromedia Lane,0.0
+incident_location_3930 Embaracadero St,0.0
+incident_location_3929 Oak Drive,0.0
+incident_location_3929 Elm Ave,0.0
+incident_location_3926 Rock Lane,0.0
+incident_location_3925 Sky St,0.0
+incident_location_3915 Embaracadero St,0.0
+incident_location_3900 Texas St,0.0
+incident_location_3878 Tree Lane,0.0
+incident_location_4239 Weaver Ave,0.0
+incident_location_4237 4th St,0.0
+incident_location_4234 Cherokee Lane,0.0
+incident_location_4232 Britain Ridge,0.0
+incident_location_4231 3rd Ave,0.0
+incident_location_4214 MLK Ridge,0.0
+incident_location_4188 Britain Ave,0.0
+incident_location_4176 Britain Hwy,0.0
+incident_location_4154 Lincoln Hwy,0.0
+incident_location_4116 Embaracadero Lane,0.0
+incident_location_4107 MLK Ridge,0.0
+incident_location_4098 Weaver Ridge,0.0
+incident_location_4095 MLK St,0.0
+incident_location_4058 Tree Drive,0.0
+incident_location_4055 2nd Drive,0.0
+incident_location_4053 Sky Lane,0.0
+incident_location_4434 Lincoln Ave,0.0
+incident_location_4431 Rock St,0.0
+incident_location_4414 Solo Drive,0.0
+incident_location_4394 Oak St,0.0
+incident_location_4390 4th Drive,0.0
+incident_location_4369 Maple Lane,0.0
+incident_location_4347 2nd Ridge,0.0
+incident_location_4335 1st St,0.0
+incident_location_4296 Pine Hwy,0.0
+incident_location_4291 Sky Hwy,0.0
+incident_location_4279 Solo Drive,0.0
+incident_location_4272 Oak Ridge,0.0
+incident_location_4268 2nd Ave,0.0
+incident_location_4264 Lincoln Ridge,0.0
+incident_location_4254 Best Ridge,0.0
+incident_location_4242 Rock Lane,0.0
+incident_location_4614 MLK Ave,0.0
+incident_location_4585 Francis Ave,0.0
+incident_location_4577 Sky Hwy,0.0
+incident_location_4554 Sky Ave,0.0
+incident_location_4546 Tree St,0.0
+incident_location_4545 4th Ridge,0.0
+incident_location_4539 Texas St,0.0
+incident_location_4538 Flute Hwy,0.0
+incident_location_4519 Embaracadero St,0.0
+incident_location_4496 Pine Lane,0.0
+incident_location_4492 Andromedia Ave,0.0
+incident_location_4486 Cherokee Ridge,0.0
+incident_location_4475 Lincoln Ridge,0.0
+incident_location_4460 4th Lane,0.0
+incident_location_4447 Francis Hwy,0.0
+incident_location_4434 Weaver St,0.0
+incident_location_4755 Best Lane,0.0
+incident_location_4755 1st St,0.0
+incident_location_4710 Lincoln Hwy,0.0
+incident_location_4702 Texas Drive,0.0
+incident_location_4699 Texas Ridge,0.0
+incident_location_4693 Lincoln Hwy,0.0
+incident_location_4687 5th Drive,0.0
+incident_location_4672 MLK St,0.0
+incident_location_4671 5th Ridge,0.0
+incident_location_4653 Pine St,0.0
+incident_location_4652 Flute Drive,0.0
+incident_location_4633 5th Lane,0.0
+incident_location_4629 Elm Ridge,0.0
+incident_location_4627 Elm Ridge,0.0
+incident_location_4625 MLK Drive,0.0
+incident_location_4615 Embaracadero Ave,0.0
+incident_location_4937 Flute Drive,0.0
+incident_location_4931 Maple Drive,0.0
+incident_location_4910 1st Lane,0.0
+incident_location_4907 Andromedia Drive,0.0
+incident_location_4905 Best Lane,0.0
+incident_location_4885 Oak Lane,0.0
+incident_location_4876 Washington Drive,0.0
+incident_location_4872 Rock Ridge,0.0
+incident_location_4866 4th Hwy,0.0
+incident_location_4862 Lincoln Hwy,0.0
+incident_location_4857 Weaver St,0.0
+incident_location_4835 Britain Ridge,0.0
+incident_location_4826 5th St,0.0
+incident_location_4814 Lincoln Lane,0.0
+incident_location_4782 Sky Lane,0.0
+incident_location_4780 Best Drive,0.0
+incident_location_5061 Francis Ave,0.0
+incident_location_5058 4th Lane,0.0
+incident_location_5053 Tree Drive,0.0
+incident_location_5028 Maple Ridge,0.0
+incident_location_5022 1st St,0.0
+incident_location_5007 Oak St,0.0
+incident_location_4995 Weaver Ridge,0.0
+incident_location_4983 MLK Ridge,0.0
+incident_location_4981 Weaver St,0.0
+incident_location_4981 Flute Hwy,0.0
+incident_location_4972 Francis Lane,0.0
+incident_location_4965 MLK Drive,0.0
+incident_location_4964 Elm Lane,0.0
+incident_location_4955 Lincoln Ridge,0.0
+incident_location_4939 Oak Lane,0.0
+incident_location_4939 Best St,0.0
+incident_location_5269 Flute Hwy,0.0
+incident_location_5260 Francis Drive,0.0
+incident_location_5249 4th Ave,0.0
+incident_location_5236 Weaver Drive,0.0
+incident_location_5226 Maple St,0.0
+incident_location_5224 5th Lane,0.0
+incident_location_5211 Weaver Drive,0.0
+incident_location_5201 Texas Hwy,0.0
+incident_location_5189 Francis Drive,0.0
+incident_location_5178 Weaver Hwy,0.0
+incident_location_5168 5th Ave,0.0
+incident_location_5124 Maple St,0.0
+incident_location_5104 Francis Drive,0.0
+incident_location_5093 Flute Lane,0.0
+incident_location_5074 3rd St,0.0
+incident_location_5071 1st Lane,0.0
+incident_location_5480 3rd Ridge,0.0
+incident_location_5474 Weaver Hwy,0.0
+incident_location_5459 MLK Ave,0.0
+incident_location_5455 Oak Hwy,0.0
+incident_location_5431 3rd Ridge,0.0
+incident_location_5383 Maple Drive,0.0
+incident_location_5380 Pine St,0.0
+incident_location_5363 Weaver Lane,0.0
+incident_location_5352 Lincoln Drive,0.0
+incident_location_5333 MLK Lane,0.0
+incident_location_5318 5th Ave,0.0
+incident_location_5312 Francis Ridge,0.0
+incident_location_5280 Pine Ave,0.0
+incident_location_5279 Pine Ridge,0.0
+incident_location_5277 Texas Lane,0.0
+incident_location_5276 2nd Lane,0.0
+incident_location_5650 Rock Ave,0.0
+incident_location_5649 Texas Ave,0.0
+incident_location_5640 Embaracadero Lane,0.0
+incident_location_5639 1st Ridge,0.0
+incident_location_5630 1st Drive,0.0
+incident_location_5621 4th Ave,0.0
+incident_location_5608 Solo St,0.0
+incident_location_5602 Britain St,0.0
+incident_location_5586 2nd St,0.0
+incident_location_5584 Britain Lane,0.0
+incident_location_5540 Sky St,0.0
+incident_location_5532 Francis Lane,0.0
+incident_location_5506 Best St,0.0
+incident_location_5499 Flute Ridge,0.0
+incident_location_5499 Elm Hwy,0.0
+incident_location_5483 Francis Drive,0.0
+incident_location_5806 Embaracadero St,0.0
+incident_location_5790 Flute Ridge,0.0
+incident_location_5783 Oak Ave,0.0
+incident_location_5782 Rock Drive,0.0
+incident_location_5780 4th Ave,0.0
+incident_location_5779 2nd Lane,0.0
+incident_location_5778 Pine Ridge,0.0
+incident_location_5771 Sky Ave,0.0
+incident_location_5771 Best St,0.0
+incident_location_5769 Texas Lane,0.0
+incident_location_5765 Washington St,0.0
+incident_location_5743 4th Ridge,0.0
+incident_location_5678 Lincoln Drive,0.0
+incident_location_5667 4th Drive,0.0
+incident_location_5663 Oak Lane,0.0
+incident_location_5650 Sky Drive,0.0
+incident_location_5971 5th Hwy,0.0
+incident_location_5969 Francis St,0.0
+incident_location_5925 Tree Hwy,0.0
+incident_location_5924 Maple Drive,0.0
+incident_location_5914 Oak Ave,0.0
+auto_model_M5,0.0
+incident_location_5894 Flute Drive,0.0
+incident_location_5874 1st Hwy,0.0
+incident_location_5865 Sky Lane,0.0
+incident_location_5862 Apache Ridge,0.0
+incident_location_5846 Weaver Drive,0.0
+incident_location_5839 Weaver Lane,0.0
+incident_location_5838 Pine Lane,0.0
+incident_location_5821 2nd St,0.0
+incident_location_5812 Weaver Ave,0.0
+incident_location_5812 Oak St,0.0
+incident_location_6165 Rock Ridge,0.0
+incident_location_6149 Best Ridge,0.0
+incident_location_6137 MLK St,0.0
+incident_location_6128 Elm Lane,0.0
+incident_location_6117 4th Ave,0.0
+incident_location_6110 Rock Ridge,0.0
+incident_location_6104 Oak Ave,0.0
+incident_location_6068 2nd St,0.0
+incident_location_6067 Weaver Ridge,0.0
+incident_location_6058 Andromedia Hwy,0.0
+incident_location_6045 Andromedia St,0.0
+incident_location_6044 Weaver Drive,0.0
+incident_location_6035 Rock Ave,0.0
+incident_location_5997 Embaracadero Drive,0.0
+incident_location_5994 5th Ave,0.0
+incident_location_5985 Lincoln Lane,0.0
+incident_location_6359 MLK Ridge,0.0
+incident_location_6357 Texas Lane,0.0
+incident_location_6331 MLK Ave,0.0
+incident_location_6329 Apache Ave,0.0
+incident_location_6317 Best St,0.0
+incident_location_6315 2nd Lane,0.0
+incident_location_6309 Cherokee Ave,0.0
+incident_location_6309 5th Ave,0.0
+incident_location_6303 1st Drive,0.0
+incident_location_6260 5th Lane,0.0
+incident_location_6259 Weaver St,0.0
+incident_location_6259 Lincoln Hwy,0.0
+incident_location_6250 1st Ridge,0.0
+incident_location_6193 1st Hwy,0.0
+incident_location_6191 Oak Lane,0.0
+incident_location_6179 3rd Ridge,0.0
+incident_location_6494 4th Ave,0.0
+incident_location_6493 Lincoln Lane,0.0
+incident_location_6492 4th Lane,0.0
+incident_location_6484 Tree Drive,0.0
+incident_location_6479 Francis Ave,0.0
+incident_location_6467 Best Ave,0.0
+incident_location_6456 Andromedia Drive,0.0
+incident_location_6443 Washington Ridge,0.0
+incident_location_6440 Rock Lane,0.0
+incident_location_6429 4th Hwy,0.0
+incident_location_6428 Andromedia Lane,0.0
+incident_location_6409 Cherokee Drive,0.0
+incident_location_6408 Weaver Ridge,0.0
+incident_location_6399 Oak Drive,0.0
+incident_location_6384 5th Ridge,0.0
+incident_location_6375 2nd Lane,0.0
+incident_location_6638 Tree Drive,0.0
+incident_location_6634 Texas Ridge,0.0
+incident_location_6619 Flute Ave,0.0
+incident_location_6618 Cherokee Drive,0.0
+incident_location_6605 Tree Ave,0.0
+incident_location_6604 Apache Drive,0.0
+incident_location_6603 Francis Hwy,0.0
+incident_location_6583 MLK Ridge,0.0
+incident_location_6582 Elm Lane,0.0
+incident_location_6581 Rock Ridge,0.0
+incident_location_6550 Andromedia St,0.0
+incident_location_6536 MLK Hwy,0.0
+incident_location_6530 Weaver Ave,0.0
+incident_location_6516 Solo Drive,0.0
+incident_location_6515 Oak Lane,0.0
+incident_location_6501 5th Drive,0.0
+incident_location_6738 Francis Hwy,0.0
+incident_location_6731 Andromedia Hwy,0.0
+incident_location_6724 Andromedia St,0.0
+incident_location_6723 Best Drive,0.0
+incident_location_6719 Flute St,0.0
+incident_location_6717 Best Drive,0.0
+incident_location_6706 Francis Drive,0.0
+incident_location_6702 Andromedia St,0.0
+incident_location_6684 Solo Lane,0.0
+incident_location_6681 Texas Ridge,0.0
+incident_location_6678 Weaver Drive,0.0
+incident_location_6676 Tree Lane,0.0
+incident_location_6668 Andromedia Ridge,0.0
+incident_location_6660 MLK Drive,0.0
+incident_location_6658 Weaver St,0.0
+incident_location_6655 5th Drive,0.0
+incident_location_6956 Maple Drive,0.0
+incident_location_6955 Pine Drive,0.0
+incident_location_6945 Texas Hwy,0.0
+incident_location_6931 Elm St,0.0
+incident_location_6889 Cherokee St,0.0
+incident_location_6888 Elm Ridge,0.0
+incident_location_6874 Maple Ridge,0.0
+incident_location_6859 Flute Ridge,0.0
+incident_location_6851 3rd Drive,0.0
+incident_location_6838 Flute Lane,0.0
+incident_location_6834 1st Drive,0.0
+incident_location_6770 1st St,0.0
+incident_location_6751 Pine Ridge,0.0
+incident_location_6751 5th Hwy,0.0
+incident_location_6741 Oak Ridge,0.0
+incident_location_6738 Washington Hwy,0.0
+incident_location_7197 2nd Drive,0.0
+incident_location_7168 Andromedia Ridge,0.0
+incident_location_7155 Apache Drive,0.0
+incident_location_7144 Andromedia St,0.0
+incident_location_7142 5th Lane,0.0
+incident_location_7135 Flute Lane,0.0
+incident_location_7121 Francis Lane,0.0
+incident_location_7121 Britain Drive,0.0
+incident_location_7112 Weaver Ave,0.0
+incident_location_7108 Tree St,0.0
+incident_location_7082 Oak Ridge,0.0
+incident_location_7069 4th Hwy,0.0
+incident_location_7042 Maple Ridge,0.0
+incident_location_7002 Oak Hwy,0.0
+incident_location_6971 Best Ridge,0.0
+incident_location_6957 Weaver Drive,0.0
+incident_location_7459 Flute St,0.0
+incident_location_7447 Lincoln Ridge,0.0
+incident_location_7428 Sky Hwy,0.0
+incident_location_7426 Rock Drive,0.0
+incident_location_7405 Oak St,0.0
+incident_location_7397 4th Drive,0.0
+incident_location_7393 Washington St,0.0
+incident_location_7380 5th Hwy,0.0
+incident_location_7327 Lincoln Drive,0.0
+incident_location_7316 Texas Ave,0.0
+incident_location_7299 Apache St,0.0
+incident_location_7295 Tree Hwy,0.0
+incident_location_7281 Oak St,0.0
+incident_location_7281 Maple Hwy,0.0
+incident_location_7238 2nd St,0.0
+incident_location_7201 Washington Ave,0.0
+incident_location_7609 Rock St,0.0
+incident_location_7583 Washington Ave,0.0
+incident_location_7582 Pine Drive,0.0
+incident_location_7571 Elm Ridge,0.0
+incident_location_7570 Cherokee Drive,0.0
+incident_location_7544 Washington Ave,0.0
+incident_location_7535 5th Lane,0.0
+incident_location_7534 MLK Hwy,0.0
+incident_location_7523 Oak Lane,0.0
+incident_location_7504 Flute Drive,0.0
+incident_location_7502 Rock Lane,0.0
+incident_location_7495 Washington Ave,0.0
+incident_location_7488 Lincoln Lane,0.0
+incident_location_7477 MLK Drive,0.0
+incident_location_7476 4th St,0.0
+incident_location_7466 MLK Ridge,0.0
+incident_location_7745 Washington Ridge,0.0
+incident_location_7740 MLK St,0.0
+incident_location_7733 Britain Lane,0.0
+incident_location_7717 Britain Hwy,0.0
+incident_location_7705 Lincoln Drive,0.0
+incident_location_7705 Best Ridge,0.0
+incident_location_7701 Tree St,0.0
+incident_location_7693 Cherokee Lane,0.0
+incident_location_7693 Britain Lane,0.0
+incident_location_7684 Francis Ridge,0.0
+incident_location_7649 Texas St,0.0
+incident_location_7644 Tree Ridge,0.0
+incident_location_7630 Rock Drive,0.0
+incident_location_7629 5th St,0.0
+incident_location_7628 4th Lane,0.0
+incident_location_7615 Weaver Drive,0.0
+incident_location_7877 Sky Lane,0.0
+incident_location_7877 3rd Ridge,0.0
+incident_location_7859 4th Ridge,0.0
+incident_location_7835 Cherokee Hwy,0.0
+incident_location_7828 Cherokee Ave,0.0
+incident_location_7825 1st Ridge,0.0
+incident_location_7819 2nd Ave,0.0
+incident_location_7816 MLK Lane,0.0
+incident_location_7797 Tree Ridge,0.0
+incident_location_7791 Britain Ridge,0.0
+incident_location_7785 Lincoln Lane,0.0
+incident_location_7783 Lincoln Hwy,0.0
+incident_location_7780 Flute Lane,0.0
+incident_location_7773 Tree Hwy,0.0
+incident_location_7756 Solo Drive,0.0
+incident_location_7756 Pine Hwy,0.0
+incident_location_8101 3rd Ridge,0.0
+incident_location_8100 3rd Ave,0.0
+incident_location_8081 Flute Ridge,0.0
+incident_location_8080 Oak Lane,0.0
+incident_location_8078 Britain Hwy,0.0
+incident_location_8064 4th Ave,0.0
+incident_location_8049 4th St,0.0
+incident_location_8021 Flute Ave,0.0
+incident_location_8014 Embaracadero Drive,0.0
+incident_location_8006 Maple Hwy,0.0
+incident_location_7954 Tree Ridge,0.0
+incident_location_7937 Weaver Ridge,0.0
+incident_location_7930 Texas Ave,0.0
+incident_location_7923 Elm Ave,0.0
+incident_location_7909 Andromedia Hwy,0.0
+incident_location_7900 Sky Hwy,0.0
+incident_location_8281 Lincoln Lane,0.0
+incident_location_8269 Sky Hwy,0.0
+incident_location_8245 4th Hwy,0.0
+incident_location_8233 Tree Drive,0.0
+incident_location_8215 Flute Drive,0.0
+incident_location_5904 1st Drive,0.0
+incident_location_8212 Rock Ave,0.0
+incident_location_8212 Flute Ridge,0.0
+incident_location_8211 Sky Hwy,0.0
+incident_location_8204 Pine Lane,0.0
+incident_location_8198 Embaracadero Lane,0.0
+incident_location_8188 Tree Ave,0.0
+incident_location_8167 Apache Ave,0.0
+incident_location_8150 Washington Ridge,0.0
+incident_location_8125 Texas Ridge,0.0
+incident_location_8118 Elm Ridge,0.0
+incident_location_8542 Lincoln Ridge,0.0
+incident_location_8538 Texas Lane,0.0
+incident_location_8524 Pine Lane,0.0
+incident_location_8493 Apache Drive,0.0
+incident_location_8492 Weaver Hwy,0.0
+incident_location_8492 Andromedia Ridge,0.0
+incident_location_8489 Pine Hwy,0.0
+incident_location_8477 Francis Hwy,0.0
+incident_location_8459 Apache Ave,0.0
+incident_location_8456 1st Ave,0.0
+incident_location_8453 Elm St,0.0
+incident_location_8442 Britain Hwy,0.0
+incident_location_8404 Embaracadero St,0.0
+incident_location_8381 Solo Hwy,0.0
+incident_location_8368 Cherokee Ave,0.0
+incident_location_8353 Britain Ridge,0.0
+incident_location_8718 Apache Lane,0.0
+incident_location_8689 Maple Hwy,0.0
+incident_location_8668 Flute St,0.0
+incident_location_8667 Weaver Lane,0.0
+incident_location_8655 Cherokee Lane,0.0
+incident_location_8639 5th Hwy,0.0
+incident_location_8638 3rd Ave,0.0
+incident_location_8624 Francis Ave,0.0
+incident_location_8621 Best Ridge,0.0
+incident_location_8618 Texas Lane,0.0
+incident_location_8617 Best Ave,0.0
+incident_location_8602 Washington Ridge,0.0
+incident_location_8586 1st Ridge,0.0
+incident_location_8579 Apache Drive,0.0
+incident_location_8576 Andromedia St,0.0
+incident_location_8548 Cherokee Ridge,0.0
+incident_location_8907 Tree Ave,0.0
+incident_location_8876 1st St,0.0
+incident_location_8862 Maple Ridge,0.0
+incident_location_8845 5th Ave,0.0
+incident_location_8834 Elm Drive,0.0
+incident_location_8822 Sky St,0.0
+incident_location_8821 Elm St,0.0
+incident_location_8811 Maple Hwy,0.0
+incident_location_8809 Flute St,0.0
+incident_location_8805 Cherokee Drive,0.0
+incident_location_8782 3rd St,0.0
+incident_location_8770 1st Lane,0.0
+incident_location_8766 Lincoln Lane,0.0
+incident_location_8758 5th St,0.0
+incident_location_8749 Tree St,0.0
+incident_location_8742 4th St,0.0
+incident_location_9007 Francis Hwy,0.0
+incident_location_8995 1st Ave,0.0
+incident_location_8991 Texas Hwy,0.0
+incident_location_8991 Embaracadero Ave,0.0
+incident_location_8983 Francis Ridge,0.0
+incident_location_8964 Francis St,0.0
+incident_location_8957 Weaver Drive,0.0
+incident_location_8954 Apache Lane,0.0
+incident_location_8949 Rock Hwy,0.0
+incident_location_8946 2nd Drive,0.0
+incident_location_8941 Solo Ridge,0.0
+incident_location_8940 Elm Ave,0.0
+incident_location_8926 Texas Ridge,0.0
+incident_location_8920 Best Ave,0.0
+incident_location_8917 Tree Ridge,0.0
+incident_location_8917 Cherokee Lane,0.0
+incident_location_9148 4th Hwy,0.0
+incident_location_9138 3rd St,0.0
+incident_location_9138 1st St,0.0
+incident_location_9109 Britain Drive,0.0
+incident_location_9105 Tree Lane,0.0
+incident_location_9103 MLK Lane,0.0
+incident_location_9101 2nd Hwy,0.0
+incident_location_9082 3rd Lane,0.0
+incident_location_9081 Cherokee Hwy,0.0
+incident_location_9078 Francis Ridge,0.0
+incident_location_9070 Tree Ave,0.0
+incident_location_9067 Texas Ave,0.0
+incident_location_9043 Maple Hwy,0.0
+incident_location_9038 2nd Lane,0.0
+incident_location_9034 Weaver Ridge,0.0
+incident_location_9020 Elm Ave,0.0
+incident_location_9358 Texas Ridge,0.0
+incident_location_9325 Lincoln Drive,0.0
+incident_location_9317 Apache Ave,0.0
+incident_location_9316 Pine Ave,0.0
+incident_location_9293 Pine Lane,0.0
+incident_location_9286 Oak Ave,0.0
+incident_location_9279 Oak Hwy,0.0
+incident_location_9278 Francis Ridge,0.0
+incident_location_9240 Britain Ave,0.0
+incident_location_9236 2nd Hwy,0.0
+incident_location_9214 Texas Drive,0.0
+incident_location_9214 Elm Ridge,0.0
+incident_location_9169 Pine Ridge,0.0
+incident_location_9169 Cherokee Hwy,0.0
+incident_location_9154 MLK Hwy,0.0
+incident_location_9153 3rd Hwy,0.0
+incident_location_9588 Solo St,0.0
+incident_location_9573 2nd Ave,0.0
+incident_location_9562 4th Ridge,0.0
+incident_location_9529 4th Drive,0.0
+incident_location_9523 Solo Hwy,0.0
+incident_location_9489 3rd St,0.0
+incident_location_9484 Pine Drive,0.0
+incident_location_9439 MLK St,0.0
+incident_location_9422 Washington Ridge,0.0
+incident_location_9418 5th Hwy,0.0
+incident_location_9417 Tree Hwy,0.0
+incident_location_9397 Francis St,0.0
+incident_location_9397 5th Hwy,0.0
+incident_location_9373 Pine Hwy,0.0
+incident_location_9369 Flute Hwy,0.0
+incident_location_9360 3rd Drive,0.0
+incident_location_9751 Sky Ridge,0.0
+incident_location_9744 Texas Drive,0.0
+incident_location_9742 5th Ridge,0.0
+incident_location_9737 Solo Hwy,0.0
+incident_location_9734 2nd Ridge,0.0
+incident_location_9728 Britain Hwy,0.0
+incident_location_9720 Lincoln Hwy,0.0
+incident_location_9719 4th Lane,0.0
+incident_location_9706 MLK Lane,0.0
+incident_location_9685 Sky Ridge,0.0
+incident_location_9682 Cherokee Ridge,0.0
+incident_location_9657 5th Ave,0.0
+incident_location_9639 Britain Ridge,0.0
+incident_location_9633 4th St,0.0
+incident_location_9610 Cherokee St,0.0
+incident_location_9603 Texas Lane,0.0
+incident_location_9918 Andromedia Drive,0.0
+incident_location_9911 Britain Lane,0.0
+incident_location_9910 Maple Ave,0.0
+incident_location_9879 Apache Drive,0.0
+incident_location_9878 Washington Ave,0.0
+incident_location_9875 MLK Ave,0.0
+incident_location_9856 Apache St,0.0
+incident_location_9847 Elm St,0.0
+incident_location_9821 Francis Ave,0.0
+incident_location_9818 Cherokee Ave,0.0
+incident_location_9816 Britain St,0.0
+incident_location_9798 Sky Ridge,0.0
+incident_location_9794 Embaracadero St,0.0
+incident_location_9787 Andromedia Ave,0.0
+incident_location_9760 4th Hwy,0.0
+incident_location_9751 Tree St,0.0
+auto_model_Legacy,0.0
+auto_model_Impreza,0.0
+incident_location_9988 Rock Ridge,0.0
+incident_location_9980 Lincoln Ave,0.0
+policy_bind_date_1990-05-07,0.0
+policy_bind_date_1990-03-28,0.0
+policy_bind_date_1990-03-26,0.0
+policy_bind_date_1991-03-20,0.0
+policy_bind_date_1991-03-10,0.0
+policy_bind_date_1991-03-01,0.0
+policy_bind_date_1991-02-13,0.0
+policy_bind_date_1991-02-11,0.0
+policy_bind_date_1991-02-08,0.0
+policy_bind_date_1991-01-27,0.0
+policy_bind_date_1991-01-05,0.0
+policy_bind_date_1990-11-03,0.0
+policy_bind_date_1990-10-19,0.0
+policy_bind_date_1990-10-13,0.0
+policy_bind_date_1990-10-09,0.0
+policy_bind_date_1990-09-27,0.0
+incident_location_9942 Tree Ave,0.0
+incident_location_9935 4th Drive,0.0
+incident_location_9929 Rock Drive,0.0
+auto_model_Accord,0.0
+auto_model_A5,0.0
+auto_model_93,0.0
+auto_model_3 Series,0.0
+auto_make_Mercedes,0.0
+auto_model_Camry,0.0
+auto_model_CRV,0.0
+policy_bind_date_1990-09-16,0.0
+policy_bind_date_1990-09-15,0.0
+policy_bind_date_1990-08-20,0.0
+policy_bind_date_1990-08-15,0.0
+policy_bind_date_1990-08-02,0.0
+policy_bind_date_1990-07-20,0.0
+policy_bind_date_1990-07-15,0.0
+policy_bind_date_1990-07-08,0.0
+policy_bind_date_1990-06-24,0.0
+policy_bind_date_1990-06-22,0.0
+policy_bind_date_1990-05-25,0.0
+policy_bind_date_1990-05-20,0.0
+policy_bind_date_1990-05-19,0.0
+auto_model_X5,0.0
+auto_model_Ultima,0.0
+auto_model_Tahoe,0.0
+auto_model_TL,0.0
+auto_model_Highlander,0.0
+auto_model_RSX,0.0
+auto_model_Passat,0.0
+auto_model_Maxima,0.0
+auto_model_Fusion,0.0
+auto_model_F150,0.0
+incident_location_8214 Flute St,0.0
