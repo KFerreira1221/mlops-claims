@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Insurance Claims ML API</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="min-h-screen bg-gradient-to-b from-slate-950 to-slate-900 text-slate-100">
+  <div class="max-w-5xl mx-auto px-6 py-10">
+    <header class="flex items-center justify-between gap-6">
+      <div>
+        <h1 class="text-3xl md:text-4xl font-semibold tracking-tight">Insurance Claims ML System</h1>
+        <p class="text-slate-300 mt-2">
+          XGBoost + FastAPI • Claim Severity (Regression) + Fraud Risk (Classification)
+        </p>
+      </div>
+      <div class="flex gap-2">
+        <a href="/docs" class="px-4 py-2 rounded-xl bg-white/10 hover:bg-white/15 transition border border-white/10">
+          API Docs
+        </a>
+        <a href="/health" class="px-4 py-2 rounded-xl bg-emerald-500/15 hover:bg-emerald-500/25 transition border border-emerald-400/20">
+          Health
+        </a>
+      </div>
+    </header>
+
+    <div class="grid md:grid-cols-2 gap-6 mt-8">
+      <!-- Severity card -->
+      <section class="rounded-2xl bg-white/5 border border-white/10 shadow-lg p-6">
+        <h2 class="text-xl font-semibold">Claim Severity</h2>
+        <p class="text-slate-300 mt-1">Predict <span class="font-medium">total_claim_amount</span>.</p>
+
+        <div class="mt-4">
+          <label class="text-sm text-slate-300">Paste features JSON</label>
+          <textarea id="sevJson" class="mt-2 w-full h-44 rounded-xl bg-slate-950/60 border border-white/10 p-3 font-mono text-sm"
+          spellcheck="false">{
+  "age": 40,
+  "policy_state": "FL",
+  "policy_annual_premium": 1200,
+  "incident_type": "Single Vehicle Collision",
+  "incident_severity": "Major Damage",
+  "number_of_vehicles_involved": 1,
+  "bodily_injuries": 1,
+  "witnesses": 1,
+  "police_report_available": "YES",
+  "auto_year": 2016
+}</textarea>
+
+          <button id="sevBtn" class="mt-3 w-full rounded-xl bg-indigo-500/25 hover:bg-indigo-500/35 transition border border-indigo-300/20 py-2 font-medium">
+            Predict Severity
+          </button>
+
+          <pre id="sevOut" class="mt-3 rounded-xl bg-slate-950/60 border border-white/10 p-3 text-sm overflow-auto"></pre>
+        </div>
+      </section>
+
+      <!-- Fraud card -->
+      <section class="rounded-2xl bg-white/5 border border-white/10 shadow-lg p-6">
+        <h2 class="text-xl font-semibold">Fraud Risk</h2>
+        <p class="text-slate-300 mt-1">Predict probability of <span class="font-medium">fraud_reported</span>.</p>
+
+        <div class="mt-4">
+          <label class="text-sm text-slate-300">Paste features JSON</label>
+          <textarea id="fraudJson" class="mt-2 w-full h-44 rounded-xl bg-slate-950/60 border border-white/10 p-3 font-mono text-sm"
+          spellcheck="false">{
+  "age": 41,
+  "policy_state": "FL",
+  "policy_annual_premium": 1200,
+  "incident_type": "Single Vehicle Collision",
+  "incident_severity": "Major Damage",
+  "number_of_vehicles_involved": 1,
+  "bodily_injuries": 1,
+  "witnesses": 1,
+  "police_report_available": "YES",
+  "auto_year": 2016
+}</textarea>
+
+          <div class="grid grid-cols-2 gap-3 mt-3">
+            <button id="fraudBtn" class="rounded-xl bg-rose-500/25 hover:bg-rose-500/35 transition border border-rose-300/20 py-2 font-medium">
+              Predict Fraud
+            </button>
+            <button id="fillBtn" class="rounded-xl bg-white/10 hover:bg-white/15 transition border border-white/10 py-2 font-medium">
+              Copy → Severity
+            </button>
+          </div>
+
+          <pre id="fraudOut" class="mt-3 rounded-xl bg-slate-950/60 border border-white/10 p-3 text-sm overflow-auto"></pre>
+        </div>
+      </section>
+    </div>
+
+    <footer class="mt-10 text-slate-400 text-sm">
+      <div class="flex flex-wrap gap-2 items-center">
+        <span>Tip:</span>
+        <span class="px-2 py-1 rounded-lg bg-white/5 border border-white/10">/docs</span>
+        <span>for Swagger</span>
+        <span class="px-2 py-1 rounded-lg bg-white/5 border border-white/10">/health</span>
+        <span>for model versions</span>
+      </div>
+    </footer>
+  </div>
+
+<script>
+  async function postJson(path, featuresObj) {
+    const res = await fetch(path, {
+      method: "POST",
+      headers: {"Content-Type": "application/json"},
+      body: JSON.stringify({features: featuresObj})
+    });
+    const txt = await res.text();
+    try { return JSON.stringify(JSON.parse(txt), null, 2); }
+    catch { return txt; }
+  }
+
+  function readJson(id) {
+    const raw = document.getElementById(id).value;
+    try { return JSON.parse(raw); }
+    catch (e) { throw new Error("Invalid JSON: " + e.message); }
+  }
+
+  document.getElementById("sevBtn").addEventListener("click", async () => {
+    const out = document.getElementById("sevOut");
+    out.textContent = "Running...";
+    try {
+      const features = readJson("sevJson");
+      out.textContent = await postJson("/predict", features);
+    } catch (e) {
+      out.textContent = e.message;
+    }
+  });
+
+  document.getElementById("fraudBtn").addEventListener("click", async () => {
+    const out = document.getElementById("fraudOut");
+    out.textContent = "Running...";
+    try {
+      const features = readJson("fraudJson");
+      out.textContent = await postJson("/predict_fraud", features);
+    } catch (e) {
+      out.textContent = e.message;
+    }
+  });
+
+  document.getElementById("fillBtn").addEventListener("click", () => {
+    document.getElementById("sevJson").value = document.getElementById("fraudJson").value;
+  });
+</script>
+</body>
+</html>
