@@ -1,0 +1,128 @@
+{
+  "model_version": "20260218T190826Z",
+  "target": "total_claim_amount",
+  "dropped_all_null_columns": [
+    "_c39"
+  ],
+  "dropped_leakage_features": [
+    "injury_claim",
+    "property_claim",
+    "vehicle_claim"
+  ],
+  "numeric_features": [
+    "months_as_customer",
+    "age",
+    "policy_number",
+    "policy_deductable",
+    "policy_annual_premium",
+    "umbrella_limit",
+    "insured_zip",
+    "capital-gains",
+    "capital-loss",
+    "incident_hour_of_the_day",
+    "number_of_vehicles_involved",
+    "bodily_injuries",
+    "witnesses",
+    "auto_year"
+  ],
+  "categorical_features": [
+    "policy_bind_date",
+    "policy_state",
+    "policy_csl",
+    "insured_sex",
+    "insured_education_level",
+    "insured_occupation",
+    "insured_hobbies",
+    "insured_relationship",
+    "incident_date",
+    "incident_type",
+    "collision_type",
+    "incident_severity",
+    "authorities_contacted",
+    "incident_state",
+    "incident_city",
+    "incident_location",
+    "property_damage",
+    "police_report_available",
+    "auto_make",
+    "auto_model",
+    "fraud_reported"
+  ],
+  "baseline_numeric_stats": {
+    "months_as_customer": {
+      "mean": 203.4675,
+      "std": 113.98773593671372,
+      "missing_rate": 0.0
+    },
+    "age": {
+      "mean": 38.94875,
+      "std": 9.014495185839804,
+      "missing_rate": 0.0
+    },
+    "policy_number": {
+      "mean": 550664.38125,
+      "std": 254940.81474979914,
+      "missing_rate": 0.0
+    },
+    "policy_deductable": {
+      "mean": 1138.125,
+      "std": 612.3593588541165,
+      "missing_rate": 0.0
+    },
+    "policy_annual_premium": {
+      "mean": 1259.5043875000001,
+      "std": 244.91429814399297,
+      "missing_rate": 0.0
+    },
+    "umbrella_limit": {
+      "mean": 1133750.0,
+      "std": 2330957.086155814,
+      "missing_rate": 0.0
+    },
+    "insured_zip": {
+      "mean": 500812.09875,
+      "std": 71575.05989415337,
+      "missing_rate": 0.0
+    },
+    "capital-gains": {
+      "mean": 24851.875,
+      "std": 27843.468201436954,
+      "missing_rate": 0.0
+    },
+    "capital-loss": {
+      "mean": -27326.625,
+      "std": 28176.79814332053,
+      "missing_rate": 0.0
+    },
+    "incident_hour_of_the_day": {
+      "mean": 11.78625,
+      "std": 7.017518147574329,
+      "missing_rate": 0.0
+    },
+    "number_of_vehicles_involved": {
+      "mean": 1.83375,
+      "std": 1.0154363296292255,
+      "missing_rate": 0.0
+    },
+    "bodily_injuries": {
+      "mean": 0.9775,
+      "std": 0.8182259783436675,
+      "missing_rate": 0.0
+    },
+    "witnesses": {
+      "mean": 1.50625,
+      "std": 1.1124122166377106,
+      "missing_rate": 0.0
+    },
+    "auto_year": {
+      "mean": 2005.05625,
+      "std": 6.030388540513851,
+      "missing_rate": 0.0
+    }
+  },
+  "metrics": {
+    "mae": 11560.357421875,
+    "rmse": 15445.935646635331,
+    "r2": 0.6974663734436035
+  }
+}
