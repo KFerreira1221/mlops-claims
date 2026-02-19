@@ -235,11 +235,12 @@ MS Artificial Intelligence — Florida Atlantic University
 Statistics — Florida International University
 
 * GitHub: https://github.com/KFerreira1221
-* Portfolio: https://kferreira1221.github.io/PortfolioWebsite/
+* Portfolio: https://kferreira1221.github.io/Portfolio/
 
 ---
 
 ⭐ If you found this project interesting, feel free to star the repo!
+
 
 
 
